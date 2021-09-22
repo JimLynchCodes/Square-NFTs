@@ -1,0 +1,27 @@
+{
+  "dna": "9cdeb1a715774b827cdab6fab4820550b12b1dec",
+  "name": "#248",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/248.png",
+  "edition": 248,
+  "date": 1632162315159,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glacier"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Baby Blue Gradient"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Overjoyed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pilgrim Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

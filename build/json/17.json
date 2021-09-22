@@ -1,0 +1,27 @@
+{
+  "dna": "150e872eff8bf0ac5024b476d1d8be6d3770d6ec",
+  "name": "#17",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/17.png",
+  "edition": 17,
+  "date": 1632161735747,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Abe"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sombrero"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

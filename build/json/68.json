@@ -1,0 +1,27 @@
+{
+  "dna": "34b15d3bc42c2c54a136e8b6d266db86af87d51b",
+  "name": "#68",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/68.png",
+  "edition": 68,
+  "date": 1632161881518,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Devastated"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pirate Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

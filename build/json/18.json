@@ -1,0 +1,27 @@
+{
+  "dna": "fe5d6a51b58a6e0b73109f1245c3e41df9fb7508",
+  "name": "#18",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/18.png",
+  "edition": 18,
+  "date": 1632161740297,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glacier"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bear Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baller Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

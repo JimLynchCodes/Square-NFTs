@@ -1,0 +1,27 @@
+{
+  "dna": "f2af2c8d09d91a293fcf81a05550aab2c38f6f1a",
+  "name": "#136",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/136.png",
+  "edition": 136,
+  "date": 1632162045866,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Static Fuzz"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Fat Bald Man"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "4th Of July Tophat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

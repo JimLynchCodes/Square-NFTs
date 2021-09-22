@@ -1,0 +1,27 @@
+{
+  "dna": "c25c7d7da9ab86289bd2b340b3595f02ae4ea786",
+  "name": "#80",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/80.png",
+  "edition": 80,
+  "date": 1632161915555,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Luscious Lips"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Llama"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

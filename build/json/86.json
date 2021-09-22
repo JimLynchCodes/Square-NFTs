@@ -1,0 +1,27 @@
+{
+  "dna": "5e18c4f75da08f9b65e059fc667f7cc7d58a110b",
+  "name": "#86",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/86.png",
+  "edition": 86,
+  "date": 1632161930208,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glacier"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Molten Lava"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy Spiral"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

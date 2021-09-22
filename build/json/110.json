@@ -1,0 +1,27 @@
+{
+  "dna": "29fad02cbf6af8e9eae12df2b7d27d8248bd2e2d",
+  "name": "#110",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/110.png",
+  "edition": 110,
+  "date": 1632161993295,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Palm-Beach"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Lime Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy Spiral"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "4th Of July Tophat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

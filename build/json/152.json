@@ -1,0 +1,27 @@
+{
+  "dna": "c4ee1da961240bcf304cbd40f0e03bbfb2c1562e",
+  "name": "#152",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/152.png",
+  "edition": 152,
+  "date": 1632162080393,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Static Fuzz"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mustache & Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Wizard Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

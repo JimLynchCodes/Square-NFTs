@@ -1,0 +1,27 @@
+{
+  "dna": "0507d21f75ad3036f48e7cb2666d2d01def26e83",
+  "name": "#228",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/228.png",
+  "edition": 228,
+  "date": 1632162272324,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glacier"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Luscious Lips"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Leprechaun Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

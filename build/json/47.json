@@ -1,0 +1,27 @@
+{
+  "dna": "073fb714de7e8d0a447aca5a1c18080907268b7e",
+  "name": "#47",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/47.png",
+  "edition": 47,
+  "date": 1632161821349,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Baby Blue Gradient"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Devastated"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Nurse Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

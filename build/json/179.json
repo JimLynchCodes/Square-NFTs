@@ -1,0 +1,27 @@
+{
+  "dna": "ee34343f3f1043880645033e1452fa12310b3bd4",
+  "name": "#179",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/179.png",
+  "edition": 179,
+  "date": 1632162139515,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Sky"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tiki Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

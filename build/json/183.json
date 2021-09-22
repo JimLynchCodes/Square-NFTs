@@ -1,0 +1,27 @@
+{
+  "dna": "5aee24d062fa6f806efb3f8fa4976d4d87bbe389",
+  "name": "#183",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/183.png",
+  "edition": 183,
+  "date": 1632162152065,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Autumn Leaves"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tiki Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Wizard Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

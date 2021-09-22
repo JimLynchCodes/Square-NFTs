@@ -1,0 +1,27 @@
+{
+  "dna": "ddc18707ceb8a624c7329bb83b883938934f2d35",
+  "name": "#85",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/85.png",
+  "edition": 85,
+  "date": 1632161924895,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Lamb Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Nurse Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

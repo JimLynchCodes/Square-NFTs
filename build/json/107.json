@@ -1,0 +1,27 @@
+{
+  "dna": "973fd3b5fe28092813ef770a878fd905e927ee09",
+  "name": "#107",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/107.png",
+  "edition": 107,
+  "date": 1632161985224,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Big City"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bear Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sombrero"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

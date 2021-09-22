@@ -1,0 +1,27 @@
+{
+  "dna": "ceb976fc55036be68ac2f8849bfecb2fe82bb420",
+  "name": "#74",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/74.png",
+  "edition": 74,
+  "date": 1632161895859,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Freedom Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pirate Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,27 @@
+{
+  "dna": "a20a58b3cc19a4e27acda3bf702deb9733a9cf7f",
+  "name": "#81",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/81.png",
+  "edition": 81,
+  "date": 1632161916762,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Lamb Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "4th Of July Tophat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,27 @@
+{
+  "dna": "4ff28ff296a4647d235d6707351a1ae85021a0a4",
+  "name": "#28",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/28.png",
+  "edition": 28,
+  "date": 1632161770856,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Into The Light"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Crinkled Paper"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Forest Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Nurse Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

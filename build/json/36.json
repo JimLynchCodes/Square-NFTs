@@ -1,0 +1,27 @@
+{
+  "dna": "c95c4b986180b19415a6693b8b81ba3e2848c94e",
+  "name": "#36",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/36.png",
+  "edition": 36,
+  "date": 1632161799087,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pilgrim Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

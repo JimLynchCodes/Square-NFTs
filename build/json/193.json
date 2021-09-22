@@ -1,0 +1,27 @@
+{
+  "dna": "22e16fe3110c09ab3b39cd3b183a4a65d561a59a",
+  "name": "#193",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/193.png",
+  "edition": 193,
+  "date": 1632162185482,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Ocean Water"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Devastated"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Leprechaun Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

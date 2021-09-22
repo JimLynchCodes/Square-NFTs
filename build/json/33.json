@@ -1,0 +1,27 @@
+{
+  "dna": "761ed85fc56834fca208dac829fb83ab7730ce76",
+  "name": "#33",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/33.png",
+  "edition": 33,
+  "date": 1632161788109,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Autumn Leaves"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Abe"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pilgrim Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

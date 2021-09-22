@@ -1,0 +1,27 @@
+{
+  "dna": "e3d364982e0266952a055363c31c68e5aebc29dd",
+  "name": "#126",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/126.png",
+  "edition": 126,
+  "date": 1632162023488,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Forest Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sombrero"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

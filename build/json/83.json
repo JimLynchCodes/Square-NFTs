@@ -1,0 +1,27 @@
+{
+  "dna": "d51fd0e78986ec4d6c9e16ee7317d56cba7db5ba",
+  "name": "#83",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/83.png",
+  "edition": 83,
+  "date": 1632161921509,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Brick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Winter Beanie"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

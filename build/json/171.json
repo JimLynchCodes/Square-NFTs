@@ -1,0 +1,27 @@
+{
+  "dna": "395473682d23f3a344c69290f9826a3450788e5b",
+  "name": "#171",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/171.png",
+  "edition": 171,
+  "date": 1632162124503,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glacier"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pilgrim Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

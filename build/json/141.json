@@ -1,0 +1,27 @@
+{
+  "dna": "2b2555b85ae9aaeded507af5086d3cdee4e5e404",
+  "name": "#141",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/141.png",
+  "edition": 141,
+  "date": 1632162063707,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tree Bark"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Baby Blue Gradient"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cat Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Nurse Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

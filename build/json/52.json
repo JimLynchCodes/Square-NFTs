@@ -1,0 +1,27 @@
+{
+  "dna": "1e0003db96d1f695281e4d282bc04902fb5936d8",
+  "name": "#52",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/52.png",
+  "edition": 52,
+  "date": 1632161836346,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Big City"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Pink Salmon Gradient"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cat Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Winter Beanie"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

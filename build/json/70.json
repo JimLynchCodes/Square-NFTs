@@ -1,0 +1,27 @@
+{
+  "dna": "ac64a89ef25d5581957d7fde881d495836fad031",
+  "name": "#70",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/70.png",
+  "edition": 70,
+  "date": 1632161884658,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Sky"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mustache & Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baller Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,27 @@
+{
+  "dna": "defdd89eadc5f2397e3ad3feb3466c27045526d5",
+  "name": "#208",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/208.png",
+  "edition": 208,
+  "date": 1632162223322,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tiki Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "4th Of July Tophat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

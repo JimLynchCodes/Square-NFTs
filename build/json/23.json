@@ -1,0 +1,27 @@
+{
+  "dna": "0bb5aab1042debf3228a0735b5fd554d3c6a931d",
+  "name": "#23",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/23.png",
+  "edition": 23,
+  "date": 1632161756031,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Autumn Leaves"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Molten Lava"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Glad"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "4th Of July Tophat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

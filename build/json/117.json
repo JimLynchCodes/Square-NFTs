@@ -1,0 +1,27 @@
+{
+  "dna": "a1460acad1d2594970de4d908f8275525adc1760",
+  "name": "#117",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/117.png",
+  "edition": 117,
+  "date": 1632162002277,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Static Fuzz"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy Spiral"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pirate Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

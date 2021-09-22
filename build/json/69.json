@@ -1,0 +1,27 @@
+{
+  "dna": "0c7822091ce7a321ea227314c31389a03db3a34a",
+  "name": "#69",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/69.png",
+  "edition": 69,
+  "date": 1632161882541,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Digital Cutey"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Wizard Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

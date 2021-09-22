@@ -1,0 +1,27 @@
+{
+  "dna": "3c7e390a908f8dff1066e6dbf5e4a0ac2a7146f7",
+  "name": "#170",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/170.png",
+  "edition": 170,
+  "date": 1632162120468,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Into The Light"
+    },
+    {
+      "trait_type": "Square",
+      "value": "White Marble"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Wizard Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

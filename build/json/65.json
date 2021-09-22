@@ -1,0 +1,27 @@
+{
+  "dna": "057740e8acb92d6a29b416e90efd906f40674802",
+  "name": "#65",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/65.png",
+  "edition": 65,
+  "date": 1632161872163,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Roof Shingles"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy Spiral"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Leprechaun Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,27 @@
+{
+  "dna": "b037f8287442a401ea0bf5c49b10f21c15f0e224",
+  "name": "#67",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/67.png",
+  "edition": 67,
+  "date": 1632161880515,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brick Wall"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Woven Basket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Glad"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,27 @@
+{
+  "dna": "eb94615cf71e61b53a89379133bf1efd6730f853",
+  "name": "#238",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/238.png",
+  "edition": 238,
+  "date": 1632162293993,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Autumn Leaves"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Devastated"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Nurse Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

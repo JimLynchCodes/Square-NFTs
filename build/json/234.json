@@ -1,0 +1,27 @@
+{
+  "dna": "40e992ed89a015a3cdf5ca6288e7a59bbe787e17",
+  "name": "#234",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/234.png",
+  "edition": 234,
+  "date": 1632162281767,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Polkadots"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Faceless"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Llama"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

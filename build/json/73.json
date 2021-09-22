@@ -1,0 +1,27 @@
+{
+  "dna": "15f046288593ad13624433b654cb21584c1e2ce4",
+  "name": "#73",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/73.png",
+  "edition": 73,
+  "date": 1632161890844,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Brick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Faceless"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Nurse Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

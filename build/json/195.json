@@ -1,0 +1,27 @@
+{
+  "dna": "88f78bd702fad8dc7500c176ea783f6bcc2c3926",
+  "name": "#195",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/195.png",
+  "edition": 195,
+  "date": 1632162190378,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Square",
+      "value": "White"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Llama"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

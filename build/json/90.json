@@ -1,0 +1,27 @@
+{
+  "dna": "142cc6898f01ecb6373268d56ae56f7b96e7c9fc",
+  "name": "#90",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/90.png",
+  "edition": 90,
+  "date": 1632161941875,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Square",
+      "value": "White"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy Spiral"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pilgrim Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

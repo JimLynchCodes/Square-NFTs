@@ -1,0 +1,27 @@
+{
+  "dna": "9a8b086dae89b73ed4ad5e23484313f98047c8d5",
+  "name": "#63",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/63.png",
+  "edition": 63,
+  "date": 1632161868875,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wheat Field"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Brick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mustache & Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Leprechaun Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

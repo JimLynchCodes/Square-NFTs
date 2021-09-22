@@ -1,0 +1,27 @@
+{
+  "dna": "70d98d6b5a2470d635fe2284c43d3fde738ace97",
+  "name": "#163",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/163.png",
+  "edition": 163,
+  "date": 1632162100053,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Big City"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Roof Shingles"
+    },
+    {
+      "trait_type": "Face",
+      "value": "In Love"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Winter Beanie"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

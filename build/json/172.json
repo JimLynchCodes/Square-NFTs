@@ -1,0 +1,27 @@
+{
+  "dna": "79c9a18eb6b1d86801a6211b6ef0395e68b11702",
+  "name": "#172",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/172.png",
+  "edition": 172,
+  "date": 1632162125641,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Square",
+      "value": "White Marble"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Leprechaun Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

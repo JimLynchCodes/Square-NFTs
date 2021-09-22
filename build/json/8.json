@@ -1,0 +1,27 @@
+{
+  "dna": "187ce359d01f07218bf261418baed779cc28b59d",
+  "name": "#8",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/8.png",
+  "edition": 8,
+  "date": 1632161709162,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Autumn Leaves"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Roof Shingles"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mustache & Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Nurse Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

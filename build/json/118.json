@@ -1,0 +1,27 @@
+{
+  "dna": "06c58a283d8a938cc749f5ec8832e2a5fa5780a2",
+  "name": "#118",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/118.png",
+  "edition": 118,
+  "date": 1632162005541,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wheat Field"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Ocean Water"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mustache & Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pirate Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

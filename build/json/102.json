@@ -1,0 +1,27 @@
+{
+  "dna": "56c87227ed3d2a7970041fd752497b9562ec3e3a",
+  "name": "#102",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/102.png",
+  "edition": 102,
+  "date": 1632161968179,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Crinkled Paper"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Digital Cutey"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Winter Beanie"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

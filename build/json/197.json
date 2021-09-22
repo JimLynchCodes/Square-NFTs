@@ -1,0 +1,27 @@
+{
+  "dna": "5bf6f0d5005a6700eeaca80b81b967ba45952498",
+  "name": "#197",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/197.png",
+  "edition": 197,
+  "date": 1632162193470,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "The Sky"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Baby Blue Gradient"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pirate Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

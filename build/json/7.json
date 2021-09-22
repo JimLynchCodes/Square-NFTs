@@ -1,0 +1,27 @@
+{
+  "dna": "ce5e58fe6719517167ec5654fedcd056e672baf6",
+  "name": "#7",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/7.png",
+  "edition": 7,
+  "date": 1632161705225,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Polkadots"
+    },
+    {
+      "trait_type": "Square",
+      "value": "White"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mustache & Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "4th Of July Tophat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

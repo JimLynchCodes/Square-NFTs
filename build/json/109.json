@@ -1,0 +1,27 @@
+{
+  "dna": "6a78f83496c9fa90611e982bbb39f5391edd6135",
+  "name": "#109",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/109.png",
+  "edition": 109,
+  "date": 1632161990114,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Big City"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "4th Of July Tophat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

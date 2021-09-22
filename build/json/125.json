@@ -1,0 +1,27 @@
+{
+  "dna": "04f737d524d4045203cf04071a6cb93e42e72efc",
+  "name": "#125",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/125.png",
+  "edition": 125,
+  "date": 1632162022520,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Fox Fur"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cat Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pilgrim Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,27 @@
+{
+  "dna": "eece863e8264bdd1a8c5379cc4d18a9fa839bb5d",
+  "name": "#104",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/104.png",
+  "edition": 104,
+  "date": 1632161975556,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cartoon Forest"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Pink Salmon Gradient"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tiki Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pilgrim Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

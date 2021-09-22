@@ -1,0 +1,27 @@
+{
+  "dna": "87b4fb179d0d618cf30f1010261971fc27a09a04",
+  "name": "#84",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/84.png",
+  "edition": 84,
+  "date": 1632161923783,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deserted Desert"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Lime Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Overjoyed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Winter Beanie"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

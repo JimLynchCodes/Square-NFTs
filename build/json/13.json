@@ -1,0 +1,27 @@
+{
+  "dna": "a3187fe72b1f2214256e210a9c9711f495117ee4",
+  "name": "#13",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/13.png",
+  "edition": 13,
+  "date": 1632161721707,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wheat Field"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tiki Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Winter Beanie"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

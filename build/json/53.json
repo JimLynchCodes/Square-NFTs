@@ -1,0 +1,27 @@
+{
+  "dna": "f2545a2c3ba4cd2ebc5b83583b3c40e4fb764d21",
+  "name": "#53",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/53.png",
+  "edition": 53,
+  "date": 1632161839339,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wheat Field"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Overjoyed"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Nurse Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

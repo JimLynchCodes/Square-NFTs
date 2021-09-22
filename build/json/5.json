@@ -1,0 +1,27 @@
+{
+  "dna": "f9baa09f3366aa0c6a97bcb8ef34e76e6e3de796",
+  "name": "#5",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/5.png",
+  "edition": 5,
+  "date": 1632161699879,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Into The Light"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cat Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Nurse Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,27 @@
+{
+  "dna": "efb566f72a477cc5ebc33931b08e31302d84737a",
+  "name": "#75",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/75.png",
+  "edition": 75,
+  "date": 1632161899192,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wheat Field"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry Face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "4th Of July Tophat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

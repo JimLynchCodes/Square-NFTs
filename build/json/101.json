@@ -1,0 +1,27 @@
+{
+  "dna": "013980911eff00873918d73621b7cc9746122d4c",
+  "name": "#101",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/101.png",
+  "edition": 101,
+  "date": 1632161966827,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snowy Mountain"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Luscious Lips"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baller Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

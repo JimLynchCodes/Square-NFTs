@@ -1,0 +1,27 @@
+{
+  "dna": "96683eff4b208e01ce3bf63d9f73af2a173840a4",
+  "name": "#196",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/196.png",
+  "edition": 196,
+  "date": 1632162191797,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Woven Basket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Fat Bald Man"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pilgrim Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

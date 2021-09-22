@@ -1,0 +1,27 @@
+{
+  "dna": "80bcbc39b4cb789d29ca149a37da2a83d04539b1",
+  "name": "#1",
+  "description": "This sure is one silly square!",
+  "image": "ipfs://QmRxRGDgkzQURnNmmjnKHQ5jQW3wjXvW2vkoWXEweRyzJ1/1.png",
+  "edition": 1,
+  "date": 1632161690025,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Glacier"
+    },
+    {
+      "trait_type": "Square",
+      "value": "Lime Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Digital Cutey"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Leprechaun Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
